@@ -1,4 +1,4 @@
-# Programación Reactiva - Acelerati
+# Programación Reactiva - Acelerati ti
 
 This repository contains examples and exercises for the reactive programming course.
 
